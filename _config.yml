@@ -1,9 +1,7 @@
 ### Site Settings ###
-title               : bencodec
+title               : Bencodec
 description         : >-                               # >- means to ignore newlines until "url:"
-                      I turn coffee into code,
-                      use tabs over spaces
-                      and never broke production.
+                      Music Technologist, Electronic Musician, Ableton Certified Trainer.
 
 url                 : ""                               # base hostname & protocol for your site (e.g. http://example.com)
 baseurl             : "/bencodec.com/"                    # subpath of your site (e.g. /blog) [IMPORTANT: use "" if your are hosting at https://username.github.io directly]
