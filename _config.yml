@@ -14,23 +14,23 @@ repository          : YoussefRaafatNasry/portfolYOU    # repository metadata on 
 author:
   name              : Ben Casey
   image             : https://bit.ly/2KCvgVJ
-  behance           : your_username
+# behance           : your_username
 # dribbble          : your_username
   email             : username@domain.com
   facebook          : your_username
-  github            : your_username
+# github            : your_username
 # gitlab            : your_username
-# instagram         : your_username
-  linkedin          : your_username
-  medium            : your_username
-# soundcloud        : your_username
+  instagram         : your_username
+# linkedin          : your_username
+# medium            : your_username
+  soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
-# twitch            : your_username
+  twitch            : your_username
   twitter           : your_username
 # vimeo             : your_username
-# youtube           : your_channel_name
+  youtube           : your_channel_name
 
 
 ### Pagination ###
