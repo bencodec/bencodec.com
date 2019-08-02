@@ -1,11 +1,11 @@
-- name: Teaching
+- name: Beat Making
   percentage: 95
   color: info
 
-- name: Beat Making
+- name: Live Looping
   percentage: 90
   color: success
   
-- name: Live Looping
+- name: Finger Drumming
   percentage: 80
   color: dark
