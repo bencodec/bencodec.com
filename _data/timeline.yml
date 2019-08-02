@@ -8,7 +8,7 @@
                reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
                
 - title: Ableton User Group Organizer, New York, NY
-from: 2006
+  from: 2006
   to: 2014
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
                sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -25,7 +25,7 @@ from: 2006
                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
                reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-title: Student, Masters of Music Composition - Goldsmiths College, UK
+- title: Student, Masters of Music Composition - Goldsmiths College, UK
   from: 2001
   to: 2003
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
