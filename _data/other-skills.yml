@@ -9,7 +9,3 @@
 - name: Live Looping
   percentage: 80
   color: dark
-  
-- name: Finger Drumming
-  percentage: 75
-  color: danger
