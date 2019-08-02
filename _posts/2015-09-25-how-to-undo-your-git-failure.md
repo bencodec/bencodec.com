@@ -1,5 +1,5 @@
 ---
-title: How to undo your git failure? and did it ever really fail.
+title: How to undo your git failure? and did it ever really.
 tags: [External Post, Git]
 style: fill
 color: warning
