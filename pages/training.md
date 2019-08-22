@@ -2,7 +2,7 @@
 layout: page
 title: Training
 permalink: /training/
-weight: 3
+weight: 1
 ---
 
 # **Ableton Training**
